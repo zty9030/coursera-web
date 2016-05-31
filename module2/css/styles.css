@@ -41,8 +41,9 @@ section {
   text-align: center;
   background-color: #44C6FF;
   border: 1px solid black;
-  float: right;
-
+  position: absolute;
+  right: -1px;
+  top: -1px;
 }
 
 /* Simple Responsive Framework. */
