@@ -24,6 +24,16 @@ p {
   background-color: grey;
   position: relative;
 }
+#menu1{
+  background-color: #99ccff;
+}
+#menu2{
+  background-color: #ffff99;
+}
+#menu3{
+  background-color: #cc0066;
+  color:white;
+}
 section {
   padding: 5px;
   width: 125px;
