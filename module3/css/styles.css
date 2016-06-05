@@ -1,0 +1,32 @@
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a {
+	text-align: center;
+}
+
+#nav-list a:hover{
+	background: #e7e7e7;
+
+}
+h1 {
+	font-size: 2em;
+}
+
+#passage {
+	padding: 5px 15px 5px 15px;
+	background-color: #e7e7e7;
+}
+
+#passage p{
+	text-align: justify;
+}
+
+#passage h2{
+	font-size: 1.5em;
+}
